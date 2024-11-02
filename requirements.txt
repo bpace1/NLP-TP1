@@ -1,0 +1,9 @@
+transformers
+pandas
+numpy
+scikit-learn
+nltk
+spacy
+bs4
+requests
+sentiment-analysis-spanish
